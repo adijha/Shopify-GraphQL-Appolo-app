@@ -37,7 +37,7 @@
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
     "koa-session": "^5.10.1",
-    "next": "^8.0.3",
+    "next": "^9.3.2",
     "react": "^16.8.4",
     "react-apollo": "^2.5.2",
     "react-dom": "^16.8.4",
